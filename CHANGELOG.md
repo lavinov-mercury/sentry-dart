@@ -8,6 +8,12 @@
 * Maps with Key Object, Object would fail during serialization if not String, Object ([#935](https://github.com/getsentry/sentry-dart/pull/935))
 * Fix duplicative Screen size changed breadcrumbs ([#888](https://github.com/getsentry/sentry-dart/pull/888))
 
+### Features
+
+- Bump Cocoa SDK to v7.20.0 ([#1](https://github.com/lavinov-mercury/sentry-dart/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/master/CHANGELOG.md#7200)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/7.19.0...7.20.0)
+
 ## 6.6.3
 
 ### Fixes
