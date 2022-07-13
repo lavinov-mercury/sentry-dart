@@ -8,6 +8,12 @@
 * Maps with Key Object, Object would fail during serialization if not String, Object ([#935](https://github.com/getsentry/sentry-dart/pull/935))
 * Fix duplicative Screen size changed breadcrumbs ([#888](https://github.com/getsentry/sentry-dart/pull/888))
 
+### Features
+
+- Bump Android SDK to v6.2.1 ([#2](https://github.com/lavinov-mercury/sentry-dart/pull/2))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#621)
+  - [diff](https://github.com/getsentry/sentry-java/compare/6.1.4...6.2.1)
+
 ## 6.6.3
 
 ### Fixes
